@@ -976,7 +976,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "text-align": "left"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -988,7 +989,7 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;Ingezonden door: tante Els en nonkel Jef<br><br>Wij hebben Peter voor z'n vormsel naar het altaar gebracht. Foto's hebben wij niet. Wel kunnen wij de inzet van Peter op school en daarbuiten in de verf zetten. Na zijn schooluren is hij bezig met opzoekingswerk in het Heilig-Graf.  Daarnaast is hij actief voor verschillende culturele groepen. Thuis is hij een zorgzame vader die altijd klaar staat voor Babs, Tim en Sherline. Bij meningsverschillen is hij de man die mensen samen brengt om een oplossing te zoeken voor het probleem, meestal lukt        het dan     ook. Hij is in de familie zowat de pater familias. De verjaardag van Els vergeet hij nooit. Het is een kaartje met dikwijls een bloemetje bij.&nbsp;<br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Tekstbreedte\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Lijnbreedte\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"lijnkleur\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><br>Wij hebben Peter voor z'n vormsel naar het altaar gebracht. <br>Foto's hebben wij niet. <br>Wel kunnen wij de inzet van Peter op school en daarbuiten in de verf zetten. Na zijn schooluren is hij bezig met opzoekingswerk in het Heilig-Graf. <br> Daarnaast is hij actief voor verschillende culturele groepen. <br>Thuis is hij een zorgzame vader die altijd klaar staat voor Babs, Tim en Sherline. <br>Bij meningsverschillen is hij de man die mensen samen brengt om een oplossing te zoeken voor het probleem, meestal lukt        het dan     ook. <br>Hij is in de familie zowat de pater familias. <br>De verjaardag van Els vergeet hij nooit. Het is een kaartje met dikwijls een bloemetje bij.&nbsp;<br><br>Ingezonden door: tante Els en nonkel Jef</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "rX68FYhtie",
           "_anchor": "content10-2g",
           "_protectedParams": [],
@@ -1135,7 +1136,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Geweldige",
@@ -1291,33 +1292,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Geweldige",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/koksijde-2002-887x575.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/koksijde-2002-887x575-800x519.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
-              },
-              {
-                "tags": "Geweldige",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/martine-40-2004-2-1600x1200.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/martine-40-2004-2-1600x1200-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Geweldige",
