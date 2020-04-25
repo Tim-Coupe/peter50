@@ -1395,6 +1395,58 @@ section.lazy-placeholder:after {
     padding-top: 1.5rem !important;
   }
 }
+.cid-rXcoUmuDgX {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
+}
+.cid-rXcoUmuDgX .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-rXcoUmuDgX .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-rXcoUmuDgX .mbr-author-desc {
+  color: #232;
+}
+@media (max-width: 991px) {
+  .cid-rXcoUmuDgX .mbr-figure,
+  .cid-rXcoUmuDgX img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+}
+.cid-rX7e32Rjop {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-rX7e32Rjop .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-rX7e32Rjop .mbr-author-name {
+  font-weight: bold;
+}
+.cid-rX7e32Rjop .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-rX7e32Rjop .mbr-figure,
+  .cid-rX7e32Rjop img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
+  .cid-rX7e32Rjop .media-content {
+    padding-top: 1.5rem !important;
+  }
+}
 .cid-rWx73NFkJM {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1522,30 +1574,30 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-rX7e32Rjop {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-rXcdvuSS51 {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
-.cid-rX7e32Rjop .testimonial-text {
+.cid-rXcdvuSS51 .testimonial-text {
   font-style: italic;
   font-weight: 300;
 }
-.cid-rX7e32Rjop .mbr-author-name {
+.cid-rXcdvuSS51 .mbr-author-name {
   font-weight: bold;
 }
-.cid-rX7e32Rjop .media-container-row {
+.cid-rXcdvuSS51 .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rX7e32Rjop .mbr-figure,
-  .cid-rX7e32Rjop img {
+  .cid-rXcdvuSS51 .mbr-figure,
+  .cid-rXcdvuSS51 img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
-  .cid-rX7e32Rjop .media-content {
+  .cid-rXcdvuSS51 .media-content {
     padding-top: 1.5rem !important;
   }
 }
@@ -1648,30 +1700,30 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rXcdvuSS51 {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rXcjcxmo5N {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #232323;
 }
-.cid-rXcdvuSS51 .testimonial-text {
+.cid-rXcjcxmo5N .testimonial-text {
   font-style: italic;
   font-weight: 300;
 }
-.cid-rXcdvuSS51 .mbr-author-name {
+.cid-rXcjcxmo5N .mbr-author-name {
   font-weight: bold;
 }
-.cid-rXcdvuSS51 .media-container-row {
+.cid-rXcjcxmo5N .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rXcdvuSS51 .mbr-figure,
-  .cid-rXcdvuSS51 img {
+  .cid-rXcjcxmo5N .mbr-figure,
+  .cid-rXcjcxmo5N img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
-  .cid-rXcdvuSS51 .media-content {
+  .cid-rXcjcxmo5N .media-content {
     padding-top: 1.5rem !important;
   }
 }
@@ -1700,30 +1752,30 @@ section.lazy-placeholder:after {
     margin: auto;
   }
 }
-.cid-rXcjcxmo5N {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-rXcp9U6heE {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
-.cid-rXcjcxmo5N .testimonial-text {
+.cid-rXcp9U6heE .testimonial-text {
   font-style: italic;
   font-weight: 300;
 }
-.cid-rXcjcxmo5N .mbr-author-name {
+.cid-rXcp9U6heE .mbr-author-name {
   font-weight: bold;
 }
-.cid-rXcjcxmo5N .media-container-row {
+.cid-rXcp9U6heE .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rXcjcxmo5N .mbr-figure,
-  .cid-rXcjcxmo5N img {
+  .cid-rXcp9U6heE .mbr-figure,
+  .cid-rXcp9U6heE img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
-  .cid-rXcjcxmo5N .media-content {
+  .cid-rXcp9U6heE .media-content {
     padding-top: 1.5rem !important;
   }
 }
