@@ -748,6 +748,18 @@ section.lazy-placeholder:after {
 .cid-rWpEaseL4S H1 {
   color: #232323;
 }
+.cid-rXJkjZBZFU {
+  background: #ffffff;
+}
+.cid-rXJkjZBZFU .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rXJkjZBZFU .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rWpDJGo65Z {
   padding-top: 30px;
   padding-bottom: 30px;
